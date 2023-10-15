@@ -40,7 +40,7 @@ function App() {
 
   return (
     
-    <div className="h-[250px] w-[800px] flex flex-col justify-centre gap-y-6 max-w-md mx-auto shadow-md rounded-lg px-4 py-3 my-8 bg-gray-800 text-red-500">
+    <div className="h-[250px] w-[800px] flex flex-col justify-centre gap-y-6 max-w-md mx-auto shadow-md rounded-lg px-4 py-3 my-8 bg-gray-800 text-red-600">
       <h1 className='text-center text-red-500 text-2xl my-3'>Random Password generator</h1>
     <div className="flex shadow rounded-lg overflow-hidden mb-4">
         <input
